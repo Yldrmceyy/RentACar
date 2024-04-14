@@ -4,11 +4,8 @@ import core.Helper;
 import dao.BrandDao;
 import entity.Brand;
 import entity.Model;
-import org.postgresql.jdbc2.ArrayAssistant;
 
 import java.util.ArrayList;
-import java.util.Date;
-import java.util.Objects;
 
 public class BrandManager {
     private final BrandDao brandDao;

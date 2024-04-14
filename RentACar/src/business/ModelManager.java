@@ -4,7 +4,7 @@ import core.Helper;
 import dao.ModelDao;
 import entity.Brand;
 import entity.Model;
-import org.postgresql.jdbc2.ArrayAssistant;
+// org.postgresql.jdbc2.ArrayAssistant;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
